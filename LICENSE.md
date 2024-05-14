@@ -1,6 +1,6 @@
 # Batch script for checking IP addresses
 - **Author:** 33mb_
-- **Date:** [Date]
+- **Date:** [14.05.2024]
 - **Version:** 1.0
 - **GitHub Repository:** [IPChecker](https://github.com/HostujePlikPL/IPChecker)
 
